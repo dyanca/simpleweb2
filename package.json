@@ -1,0 +1,10 @@
+{
+    "name": "simpleweb2",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "*"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
